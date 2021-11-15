@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm Sid. 
+### I am a Full Stack Developer, Technology Enthusiast, Part-Time Gamer, Passionate Mixologist and a Weekend Woordworker. 
+***
 
-<!--
-**siddharthnair87/siddharthnair87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am currently exploring new front-end and back-end technologies.
+- I am looking to be part of interesting projects in diverse teams. 
+- I spend my free time woodworking, gardening, cooking and taking my dog out for drives. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+[Your Link Here](https://www.linkedin.com/in/siddharth-nair-537234a5/)https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
+**Tools and Technologies**
+
+
+
