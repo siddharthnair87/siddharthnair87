@@ -7,6 +7,8 @@
 - 🥅 Goals: Start contributing to open source projects.
 - ⚡ In my spare time I try to keep my houseplants alive and take my dog for drives.
 
+## You can check out my portfolio here - <a target="blank" href="https://sidnairportfolio.netlify.app/">https://sidnairportfolio.netlify.app/</a>
+
 ### Connect with me
 
 
