@@ -1,4 +1,4 @@
-## I use github for personal projects only and my commits and PR's are not visible here as this is all tied to a private repository in gitlab. 
+## I use github for personal projects only. My day to day commits and PR's are only visible in a private repo in Gitlab. 
 
 ### Hi there, I'm Sid Nair👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=siddharthnair87&color=yellow)</div>
 
