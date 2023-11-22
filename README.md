@@ -1,10 +1,12 @@
+## I use github for personal projects only and my commits and PR's are not visible here as this is all tied to a private repository in gitlab. 
+
 ### Hi there, I'm Sid Nair👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=siddharthnair87&color=yellow)</div>
 
 ## I'm a Full stack Developer, Technology Enthusiast, Part-Time Gamer, Passionate Mixologist and a Weekend Woodworker!!!
 
-- 🌱 I’m currently exploring new front and and back end frameworks.
-- 👯 I would like to be a part of a diverse team working on interesting projects.
-- 🥅 Goals: Start contributing to open source projects.
+- 🌱 I work on the the front end development team at Bravissimo, a lingerie retailer building and maintaining their ecommerce operations. 
+- 👯 I have experience with a wide range of tools and technologies like Typescript, React, MongoDB, Git, RabbitMQ, AWS to name a few. 
+- 🥅 Certifications: BCS Certificate in UX Fundamentals, AWS Certified Cloud Practitioner, MongoDB Associate Developer. 
 - ⚡ In my spare time I try to keep my houseplants alive and take my dog for drives.
 
 ## You can check out my portfolio here - <a target="blank" href="https://sidnairportfolio.netlify.app/">https://sidnairportfolio.netlify.app/</a>
