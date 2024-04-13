@@ -4,7 +4,7 @@
 
 ## I'm a Full stack Developer, Technology Enthusiast, Part-Time Gamer, Passionate Mixologist and a Weekend Woodworker!!!
 
-- 🌱 I work on the the front end development team at Bravissimo, a lingerie retailer building and maintaining their ecommerce operations. 
+- 🌱 I work on the the front end development team at Bravissimo, a lingerie retailer, building and maintaining their ecommerce operations. 
 - 👯 I have experience with a wide range of tools and technologies like Typescript, React, MongoDB, Git, RabbitMQ, AWS to name a few. 
 - 🥅 Certifications: BCS Certificate in UX Fundamentals, AWS Certified Cloud Practitioner, MongoDB Associate Developer. 
 - ⚡ In my spare time I try to keep my houseplants alive and take my dog for drives.
